@@ -1,6 +1,6 @@
 ﻿using System;
 public class Array
-{
+{ 
     public static void Main()
     {
         Console.WriteLine("Please enter the number of elements for the array");
