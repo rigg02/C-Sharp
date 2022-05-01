@@ -9,7 +9,7 @@ Console.WriteLine("Hey there, welcome to the game of 21 sticks try beat my unbea
 System.Console.ReadKey();
 do
 {
-pull:
+pull: 
     Console.Clear();
     Console.WriteLine("Round "+i+"\nRemaining Sticks = " + sticks + "\nUser's turn\nEnter the number of sticks you want to pull");
     user = Convert.ToInt32(Console.ReadLine());
