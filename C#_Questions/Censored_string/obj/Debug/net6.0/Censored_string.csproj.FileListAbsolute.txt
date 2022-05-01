@@ -1,0 +1,15 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\bin\Debug\net6.0\Censored_string.exe
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\bin\Debug\net6.0\Censored_string.deps.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\bin\Debug\net6.0\Censored_string.runtimeconfig.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\bin\Debug\net6.0\Censored_string.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\bin\Debug\net6.0\Censored_string.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.csproj.CoreCompileInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\refint\Censored_string.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\Censored_string.genruntimeconfig.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Censored_string\obj\Debug\net6.0\ref\Censored_string.dll

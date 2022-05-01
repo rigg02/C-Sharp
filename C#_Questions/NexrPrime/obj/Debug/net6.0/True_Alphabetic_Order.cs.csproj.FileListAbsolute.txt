@@ -1,0 +1,15 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.csproj.CoreCompileInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\bin\Debug\net6.0\True_Alphabetic_Order.cs.exe
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\bin\Debug\net6.0\True_Alphabetic_Order.cs.deps.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\bin\Debug\net6.0\True_Alphabetic_Order.cs.runtimeconfig.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\bin\Debug\net6.0\True_Alphabetic_Order.cs.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\bin\Debug\net6.0\True_Alphabetic_Order.cs.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\refint\True_Alphabetic_Order.cs.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\True_Alphabetic_Order.cs.genruntimeconfig.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\NexrPrime\obj\Debug\net6.0\ref\True_Alphabetic_Order.cs.dll

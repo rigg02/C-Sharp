@@ -1,0 +1,15 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.csproj.CoreCompileInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\bin\Debug\net6.0\21sticks.exe
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\bin\Debug\net6.0\21sticks.deps.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\bin\Debug\net6.0\21sticks.runtimeconfig.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\bin\Debug\net6.0\21sticks.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\bin\Debug\net6.0\21sticks.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\refint\21sticks.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\21sticks.genruntimeconfig.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\21sticks\obj\Debug\net6.0\ref\21sticks.dll

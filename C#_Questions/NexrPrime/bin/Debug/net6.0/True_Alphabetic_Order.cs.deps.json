@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "True_Alphabetic_Order.cs/1.0.0": {
+        "runtime": {
+          "True_Alphabetic_Order.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "True_Alphabetic_Order.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\bin\Debug\net6.0\Sentence_ripper.exe
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\bin\Debug\net6.0\Sentence_ripper.deps.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\bin\Debug\net6.0\Sentence_ripper.runtimeconfig.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\bin\Debug\net6.0\Sentence_ripper.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\bin\Debug\net6.0\Sentence_ripper.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.csproj.CoreCompileInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\refint\Sentence_ripper.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\Sentence_ripper.genruntimeconfig.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Sentence_ripper\obj\Debug\net6.0\ref\Sentence_ripper.dll

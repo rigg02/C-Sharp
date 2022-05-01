@@ -1,0 +1,5 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#course\Start\Classes\ProgChallenge\obj\Debug\net5.0\ProgChallenge.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#course\Start\Classes\ProgChallenge\obj\Debug\net5.0\ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#course\Start\Classes\ProgChallenge\obj\Debug\net5.0\ProgChallenge.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#course\Start\Classes\ProgChallenge\obj\Debug\net5.0\ProgChallenge.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#course\Start\Classes\ProgChallenge\obj\Debug\net5.0\ProgChallenge.csproj.CoreCompileInputs.cache

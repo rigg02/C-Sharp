@@ -1,0 +1,15 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.csproj.CoreCompileInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\bin\Debug\net6.0\Cup_Swapper.exe
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\bin\Debug\net6.0\Cup_Swapper.deps.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\bin\Debug\net6.0\Cup_Swapper.runtimeconfig.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\bin\Debug\net6.0\Cup_Swapper.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\bin\Debug\net6.0\Cup_Swapper.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\refint\Cup_Swapper.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\Cup_Swapper.genruntimeconfig.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\Cup_Swapper\obj\Debug\net6.0\ref\Cup_Swapper.dll

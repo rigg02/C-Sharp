@@ -1,0 +1,15 @@
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\bin\Debug\net6.0\ReverseOrNot.exe
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\bin\Debug\net6.0\ReverseOrNot.deps.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\bin\Debug\net6.0\ReverseOrNot.runtimeconfig.json
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\bin\Debug\net6.0\ReverseOrNot.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\bin\Debug\net6.0\ReverseOrNot.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.csproj.AssemblyReference.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.AssemblyInfoInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.AssemblyInfo.cs
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\refint\ReverseOrNot.dll
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.pdb
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ReverseOrNot.genruntimeconfig.cache
+C:\Users\Rigg Dev\OneDrive\ALL CODES\C#\C#_Questions\ReverseOrNot\obj\Debug\net6.0\ref\ReverseOrNot.dll
